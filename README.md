@@ -6,5 +6,5 @@ It also include a Google Maps link so that the receiver can get directions to th
 ## Features
 - Accurate upto 10 Meters
 - Fast and Precise
-- Support to send Multiple messages to upto 10 contacts.
+- Support to send multiple messages to upto 10 contacts.
 - Custom message can be set.
