@@ -9,4 +9,4 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Support to send multiple messages to upto 10 contacts.
 - Custom message can be set.
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS1.jpeg)
