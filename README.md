@@ -10,7 +10,7 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Custom message can be set.
 
 
-![smiley](/Screenshots/SPNG.png){:height="36px" width="36px"}.
+![smiley](/Screenshots/SPNG.png)
 
 
 <a href="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS1.jpeg"><img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SPNG.jpeg" height="148" width="148" ></a>
