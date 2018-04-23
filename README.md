@@ -10,7 +10,9 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Custom message can be set.
 
 
-![Screenshot1](/Screenshots/SPNG.png)
+![](/Screenshots/SS1.jpg)  ![](/Screenshots/SS2.jpg)  ![](/Screenshots/SS3.jpg)
+![](/Screenshots/SS4.jpg)  ![](/Screenshots/SS5.jpg)  ![](/Screenshots/SS6.jpg)
+
 
 
 
