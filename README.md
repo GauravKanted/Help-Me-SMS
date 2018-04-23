@@ -3,12 +3,13 @@ Developed with keeping in mind the growing need for security Help Me SMS is an a
 
 It also include a Google Maps link so that the receiver can get directions to the sender.
 
-## Features
+### Features
 - Accurate upto 10 Meters
 - Fast and Precise
 - Support to send multiple messages to upto 10 contacts.
-- Custom message can be set.
+- Custom  SMS message can be set.
 
+### Screenshots
 
 ![SS1](https://raw.githubusercontent.com/GauravKanted/Help-Me-SMS/master/Screenshots/SS1.jpg)  ![SS2](/Screenshots/SS2.jpg)  ![SS3](/Screenshots/SS3.jpg)
 ![SS4](/Screenshots/SS4.jpg)  ![SS5](/Screenshots/SS5.jpg)  ![SS6](/Screenshots/SS6.jpg)
