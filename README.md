@@ -10,12 +10,11 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Custom message can be set.
 
 
-![smiley](/Screenshots/SPNG.png)
-<img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SPNG.jpeg" width="250px">
+![Screenshot1](/Screenshots/SPNG.png)
+
+![Screenshot1](/Screenshots/SS2.jpeg)
+<img src="/Screenshots/SS2.jpeg" width="48">
 
 
-<a><img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS1.jpeg" width="148">   <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS2.jpeg" width="148">        <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS3.jpeg" width="148"></a>
-
-<img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS4.jpeg" width="148">   <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS5.jpeg" width="148">        <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS6.jpeg" width="148">
 
 
