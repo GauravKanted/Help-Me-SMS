@@ -9,7 +9,9 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Support to send multiple messages to upto 10 contacts.
 - Custom message can be set.
 
-![test](https://github.com/favicon.ico)
+
+
+<a href="url"><img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS1.jpeg" height="148" width="148" ></a>
 
 <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS1.jpeg" width="148">   <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS2.jpeg" width="148">        <img src="https://github.com/GauravKanted/Help-Me-SMS/blob/master/Screenshots/SS3.jpeg" width="148">
 
