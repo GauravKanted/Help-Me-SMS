@@ -10,7 +10,7 @@ It also include a Google Maps link so that the receiver can get directions to th
 - Custom message can be set.
 
 
-![Screenshot1](/Screenshots/SPNG.png)
+![Screenshot1](/Screenshots/SPNG.png){height="36px" width="36px"}.
 
 ![Screenshot2](/Screenshots/SS2.jpeg)
 <img src="/Screenshots/SS2.jpeg" width="148">
